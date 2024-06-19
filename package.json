@@ -1,0 +1,20 @@
+{
+  "name": "nike-single-pager",
+  "version": "1.0.0",
+  "description": "a nike landing page",
+  "main": "main.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "nike",
+    "tailwind",
+    "jsmastery"
+  ],
+  "author": "Benedict Joachim",
+  "license": "ISC"
+}
